@@ -1,6 +1,6 @@
 # github-activity
 
-Project made for learning path from [Roadmap][https://roadmap.sh]
+Project made for learning path from [Roadmap](https://roadmap.sh/projects/github-user-activity)
 
 Apologies for one commit. Took me not so long time, didn't commit in the meantime.
 
