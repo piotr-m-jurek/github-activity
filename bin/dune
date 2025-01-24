@@ -1,0 +1,6 @@
+(executable
+ (public_name github_user_activity)
+ (name main)
+ (libraries github_user_activity core lwt cohttp-lwt-unix yojson)
+ (preprocess
+  (pps ppx_deriving_yojson)))

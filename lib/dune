@@ -1,0 +1,5 @@
+(library
+ (name github_user_activity)
+ (libraries yojson lwt cohttp-lwt-unix core)
+ (preprocess
+  (pps ppx_deriving_yojson)))
